@@ -1,0 +1,1 @@
+# If-a-customer-will-accept-an-offer-or-not-using-Response-Modeling
